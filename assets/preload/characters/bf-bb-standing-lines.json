@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "not bad",
+			"indices": [],
+			"name": "bb not bad"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "shit nice one",
+			"indices": [],
+			"name": "bb shit nice one"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "sweet dude",
+			"indices": [],
+			"name": "bb sweet dude"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lines",
+	"position": [
+		25,
+		-1
+	],
+	"healthicon": "bf-bbhappy",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-70,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

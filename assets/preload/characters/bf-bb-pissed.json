@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "BBANGYidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-348
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "BBANGYdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-86
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "BBANGYup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-138,
+				-45
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "BBANGYright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				-111
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "BBANGYleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				-110
+			],
+			"anim": "singLEFTmiss",
+			"fps": 30,
+			"name": "BBAngyMissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-338
+			],
+			"anim": "singDOWNmiss",
+			"fps": 30,
+			"name": "BBANGYMissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-86
+			],
+			"anim": "singUPmiss",
+			"fps": 30,
+			"name": "BBANGYMissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-47
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 30,
+			"name": "BBANGYMissRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bb-pissed",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf-bb-pissed",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-70,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

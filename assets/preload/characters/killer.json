@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "killer idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "killer left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				25
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "killer down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "killer up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "killer right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/killer_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "killer",
+	"flip_x": false,
+	"healthbar_colors": [
+		110,
+		0,
+		0
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

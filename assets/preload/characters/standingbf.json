@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BFPJvs Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BFPJvs Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BFPJvs Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BFPJvs Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BFPJvs Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFPJvs",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "couchbf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		75,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

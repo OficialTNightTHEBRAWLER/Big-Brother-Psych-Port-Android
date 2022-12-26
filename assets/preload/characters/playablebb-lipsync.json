@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "awsweetdude",
+			"loop": false,
+			"name": "awsweetdude"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "notbad",
+			"loop": false,
+			"name": "notbad"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "shitniceone",
+			"loop": false,
+			"name": "shitniceone"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/playablebb-lipsync-assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bb",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
