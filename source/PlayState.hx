@@ -2367,7 +2367,7 @@ class PlayState extends MusicBeatState
 
 
 
-		botplayTxt = new FlxText(400, timeBarBG.y + 55, FlxG.width - 800, "NOOB XD", 32);
+		botplayTxt = new FlxText(400, timeBarBG.y + 55, FlxG.width - 800, "BOT PLAY", 32);
 
 		botplayTxt.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 
@@ -4540,7 +4540,7 @@ var creditTxt = new FlxText(876, 648, 348);
 
 		scoreTxt.text = 'Score: ' + songScore
 
-		+ ' | Ported By T_Night FNF |  Misses: ' + songMisses
+		+ ' | ZIP By StasLk 2 & APK By T_Night FNF |  Misses: ' + songMisses
 
 		+ ' | Rating: ' + ratingName
 
